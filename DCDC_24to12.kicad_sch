@@ -5097,7 +5097,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FUSE_3557:FUSE_3557-2"
 			(at 29.21 76.2 0)
 			(effects
 				(font
