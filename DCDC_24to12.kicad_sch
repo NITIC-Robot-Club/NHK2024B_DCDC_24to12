@@ -3350,34 +3350,31 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 50.8 78.74 0)
+		(at 40.64 81.28 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "43035b77-3102-458f-99ea-70766b1972d3")
 		(property "Reference" "J1"
-			(at 52.07 78.7399 0)
+			(at 50.8 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Power_IN"
-			(at 52.07 81.2799 0)
+			(at 50.8 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical"
-			(at 50.8 78.74 0)
+		(property "Footprint" "Connector_AMASS:AMASS_XT60PW-M_1x02_P7.20mm_Horizontal"
+			(at 40.64 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3386,7 +3383,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 78.74 0)
+			(at 40.64 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3395,7 +3392,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 50.8 78.74 0)
+			(at 40.64 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4032,10 +4029,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "74bba409-6b1f-45c7-906e-684c9bd61e5e")
 		(property "Reference" "D4"
-			(at 34.29 78.4224 90)
+			(at 19.05 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4044,7 +4040,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 34.29 80.9624 90)
+			(at 19.05 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5273,34 +5269,31 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 50.8 124.46 0)
+		(at 40.64 127 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e5a6e3fe-db70-4158-a030-e88be19bb5f3")
 		(property "Reference" "J2"
-			(at 52.07 124.4599 0)
+			(at 38.1 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Power_OUT"
-			(at 52.07 126.9999 0)
+			(at 38.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical"
-			(at 50.8 124.46 0)
+		(property "Footprint" "Connector_AMASS:AMASS_XT60PW-F_1x02_P7.20mm_Horizontal"
+			(at 40.64 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5309,7 +5302,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 124.46 0)
+			(at 40.64 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5318,7 +5311,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 50.8 124.46 0)
+			(at 40.64 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
