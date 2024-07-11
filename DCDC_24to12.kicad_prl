@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Pi_Header.kicad_prl",
+    "filename": "DCDC_24to12.kicad_prl",
     "version": 3
   },
   "project": {
