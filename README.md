@@ -1,0 +1,2 @@
+# 24V->12V降圧DCDC基板
+## with BD9F800MUX-Z
