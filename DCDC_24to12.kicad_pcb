@@ -6614,6 +6614,72 @@
 			)
 		)
 	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
+		(uuid "2d382bd0-7aa6-4f14-93c2-6578fea8d827")
+		(pts
+			(xy 140.97 67.31) (xy 140.97 42.545)
+		)
+		(height 12.7)
+		(gr_text "24.7650 mm"
+			(at 152.52 54.9275 90)
+			(layer "Cmts.User")
+			(uuid "2d382bd0-7aa6-4f14-93c2-6578fea8d827")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
+		(uuid "c31fdf65-3aaa-49a4-a06b-b0035215f201")
+		(pts
+			(xy 72.39 67.31) (xy 140.97 67.31)
+		)
+		(height 19.05)
+		(gr_text "68.5800 mm"
+			(at 106.68 85.21 0)
+			(layer "Cmts.User")
+			(uuid "c31fdf65-3aaa-49a4-a06b-b0035215f201")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
 	(segment
 		(start 99.302966 52.07)
 		(end 100.547965 53.314999)
@@ -8396,7 +8462,7 @@
 		)
 		(polygon
 			(pts
-				(xy 70.866 42.672) (xy 70.866 66.929) (xy 141.605 66.929) (xy 141.605 42.545)
+				(xy 72.644 42.672) (xy 72.644 66.929) (xy 140.589 66.929) (xy 140.589 42.545)
 			)
 		)
 		(filled_polygon
@@ -9326,7 +9392,7 @@
 		)
 		(polygon
 			(pts
-				(xy 70.612 42.545) (xy 70.612 57.785) (xy 82.677 57.785) (xy 82.677 42.545)
+				(xy 72.39 42.545) (xy 72.39 57.785) (xy 82.677 57.785) (xy 82.677 42.545)
 			)
 		)
 		(filled_polygon
