@@ -1703,12 +1703,6 @@
 		(uuid "0249c7b7-879b-47f2-a9f5-161abb8cc74b")
 	)
 	(junction
-		(at 31.75 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "03034d16-9ea3-435b-8cb6-7a45e7c2a210")
-	)
-	(junction
 		(at 157.48 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1719,6 +1713,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20b06c09-d96f-40f9-8419-1a0ad93fda6d")
+	)
+	(junction
+		(at 31.75 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2383bb68-8b36-4690-9c35-95cf9e39a952")
 	)
 	(junction
 		(at 157.48 104.14)
@@ -1767,6 +1767,16 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d64db57e-0db1-4b72-af23-6b561cc29af7")
+	)
+	(wire
+		(pts
+			(xy 36.83 76.2) (xy 45.72 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "104d9583-0c53-4250-9a90-008570a849aa")
 	)
 	(wire
 		(pts
@@ -1900,7 +1910,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 76.2) (xy 26.67 76.2)
+			(xy 22.86 76.2) (xy 31.75 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1937,16 +1947,6 @@
 			(type default)
 		)
 		(uuid "68d94dcb-b4f5-4ea0-b35c-b38f1ae35860")
-	)
-	(wire
-		(pts
-			(xy 45.72 76.2) (xy 31.75 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6eca5dc8-b951-4b84-8954-be6bd9102cd8")
 	)
 	(wire
 		(pts
@@ -5069,7 +5069,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 29.21 76.2 0)
+		(at 34.29 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5078,7 +5078,7 @@
 		(fields_autoplaced yes)
 		(uuid "db7471ce-0042-4534-8db9-8d51d3d24af4")
 		(property "Reference" "F1"
-			(at 29.21 71.12 0)
+			(at 34.29 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5086,7 +5086,7 @@
 			)
 		)
 		(property "Value" "10A"
-			(at 29.21 73.66 0)
+			(at 34.29 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5094,7 +5094,7 @@
 			)
 		)
 		(property "Footprint" "FUSE_3557:FUSE_3557-2"
-			(at 29.21 76.2 0)
+			(at 34.29 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5103,7 +5103,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 29.21 76.2 0)
+			(at 34.29 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5112,7 +5112,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 29.21 76.2 0)
+			(at 34.29 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
