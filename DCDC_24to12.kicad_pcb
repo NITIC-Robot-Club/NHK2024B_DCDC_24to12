@@ -7048,6 +7048,18 @@
 		(layer "Edge.Cuts")
 		(uuid "f59492e7-df2c-44f9-93ad-7dbd5df2c49e")
 	)
+	(gr_text "2024 Ibaraki_B\nDCDC_24to12 Board\nDesigned by @C_Take_e"
+		(at 92.71 69.85 0)
+		(layer "F.SilkS")
+		(uuid "3eb4f770-b45b-4532-8580-c791c1c50f5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "J2"
 		(at 136.144 54.356 0)
 		(layer "F.SilkS")
@@ -7552,6 +7564,14 @@
 		(free yes)
 		(net 1)
 		(uuid "8b83189b-55e2-4baf-9d2a-8543b30728df")
+	)
+	(via
+		(at 94.488 48.26)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 1)
+		(uuid "8edfd08e-c41e-40da-a57b-103d851d89ae")
 	)
 	(via
 		(at 124.46 66.04)
