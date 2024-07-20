@@ -3063,7 +3063,7 @@
 		(descr "AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf")
 		(tags "XT60 female vertical")
 		(property "Reference" "J2"
-			(at 3.6 -5.3 360)
+			(at 3.6 -5.3 0)
 			(layer "F.SilkS")
 			(uuid "bc243b7b-4514-4423-a6bd-2474d1a5cbb2")
 			(effects
@@ -3074,7 +3074,7 @@
 			)
 		)
 		(property "Value" "Power_OUT"
-			(at 3.6 5.4 360)
+			(at 3.6 5.4 0)
 			(layer "F.Fab")
 			(uuid "4d6f049d-b9ff-45f8-a6a3-9858207f5407")
 			(effects
@@ -3309,7 +3309,7 @@
 			(uuid "2e93656c-8a70-401a-8450-e84153c50f3f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.6 0.05 360)
+			(at 3.6 0.05 0)
 			(layer "F.Fab")
 			(uuid "8d0d99c6-4ba0-4b42-8805-3ddc47e90218")
 			(effects
@@ -6868,7 +6868,7 @@
 	)
 	(gr_rect
 		(start 116.713 66.04)
-		(end 123.698 72.39)
+		(end 123.698 72.263)
 		(stroke
 			(width 0.1)
 			(type default)
