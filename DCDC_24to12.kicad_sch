@@ -5580,7 +5580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT60PW-F_1x02_P7.20mm_Horizontal"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical"
 			(at 173.99 81.28 0)
 			(effects
 				(font
