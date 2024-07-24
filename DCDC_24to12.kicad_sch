@@ -4120,7 +4120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "674db763-ffd3-444f-848b-2da7b525ca0d")
-		(property "Reference" "R5"
+		(property "Reference" "R4"
 			(at 88.9 91.4399 0)
 			(effects
 				(font
@@ -4174,7 +4174,7 @@
 		(instances
 			(project "Pi_Header"
 				(path "/9b31bb12-b0a4-46c2-8fe3-73cecf9f3124"
-					(reference "R5")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -5235,7 +5235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf67af46-f96c-4949-a503-0817cbe9f482")
-		(property "Reference" "R7"
+		(property "Reference" "R6"
 			(at 105.41 91.4399 0)
 			(effects
 				(font
@@ -5289,7 +5289,7 @@
 		(instances
 			(project "DCDC_24to12"
 				(path "/9b31bb12-b0a4-46c2-8fe3-73cecf9f3124"
-					(reference "R7")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -5642,7 +5642,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb869b7d-da0f-47cc-ab6c-15c21ed83b62")
-		(property "Reference" "R6"
+		(property "Reference" "R5"
 			(at 97.79 91.4399 0)
 			(effects
 				(font
@@ -5696,7 +5696,7 @@
 		(instances
 			(project "Pi_Header"
 				(path "/9b31bb12-b0a4-46c2-8fe3-73cecf9f3124"
-					(reference "R6")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -5712,7 +5712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef578cae-a330-4c5b-a4cb-e8f4b104a3d2")
-		(property "Reference" "R4"
+		(property "Reference" "R7"
 			(at 105.41 102.8699 0)
 			(effects
 				(font
@@ -5766,7 +5766,7 @@
 		(instances
 			(project "Pi_Header"
 				(path "/9b31bb12-b0a4-46c2-8fe3-73cecf9f3124"
-					(reference "R4")
+					(reference "R7")
 					(unit 1)
 				)
 			)
