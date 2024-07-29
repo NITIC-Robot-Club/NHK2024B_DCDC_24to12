@@ -6950,6 +6950,17 @@
 		(uuid "bf3089da-2bf4-4ec5-a65b-f30b431672ca")
 	)
 	(gr_rect
+		(start 122.174 110.998)
+		(end 147.574 136.398)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "cee453c5-46fb-4138-ad91-3a9db4cca600")
+	)
+	(gr_rect
 		(start 106.645 72.39)
 		(end 181.645 146.755)
 		(stroke
