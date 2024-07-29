@@ -1875,8 +1875,16 @@
 		(uuid "70424329-6850-456f-8d07-5f1d34d8e74f")
 	)
 	(no_connect
+		(at 254 143.51)
+		(uuid "c247f42b-ed88-4002-ab24-099911f82db3")
+	)
+	(no_connect
 		(at 172.72 143.51)
 		(uuid "d86501a8-bfce-4f29-9f23-5dcb7051581d")
+	)
+	(no_connect
+		(at 226.06 143.51)
+		(uuid "f45e05ff-6984-4af9-acd6-294a233979e4")
 	)
 	(wire
 		(pts
@@ -4480,6 +4488,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 226.06 140.97 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "863aa8bf-219e-4fef-90f1-bd865c368991")
+		(property "Reference" "H3"
+			(at 228.6 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 228.6 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 226.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 226.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "544ad3c9-225d-4135-a255-78eae86acafa")
+		)
+		(instances
+			(project "DCDC_24to12"
+				(path "/9b31bb12-b0a4-46c2-8fe3-73cecf9f3124"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 129.54 78.74 0)
 		(unit 1)
@@ -4671,6 +4746,73 @@
 			(project "DCDC_24to12"
 				(path "/9b31bb12-b0a4-46c2-8fe3-73cecf9f3124"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 254 140.97 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93246ea0-9681-470c-af1b-c7d6b3e5438c")
+		(property "Reference" "H4"
+			(at 256.54 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 256.54 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 254 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 254 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5724f72f-2cfa-4c5d-92a4-a9ba1cd4d634")
+		)
+		(instances
+			(project "DCDC_24to12"
+				(path "/9b31bb12-b0a4-46c2-8fe3-73cecf9f3124"
+					(reference "H4")
 					(unit 1)
 				)
 			)
