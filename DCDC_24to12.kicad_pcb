@@ -115,7 +115,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gbrs/")
+			(outputdirectory "gbrs/rawdata")
 		)
 	)
 	(net 0 "")
@@ -711,7 +711,7 @@
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
 		(property "Reference" "H2"
-			(at -4.445 -2.794 0)
+			(at -4.826 0.762 0)
 			(layer "F.SilkS")
 			(uuid "17967d2b-e59f-4743-8c1c-1a870e3fcbfa")
 			(effects
@@ -5558,7 +5558,7 @@
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
 		(property "Reference" "H4"
-			(at 0 4.318 0)
+			(at 3.556 -2.794 0)
 			(layer "F.SilkS")
 			(uuid "8c76d1ba-76fa-4764-92c2-74060f645ebf")
 			(effects
@@ -6269,7 +6269,7 @@
 		(descr "Mounting Hole 3.2mm, M3")
 		(tags "mounting hole 3.2mm m3")
 		(property "Reference" "H1"
-			(at 0 -4.2 0)
+			(at 4.826 2.032 0)
 			(layer "F.SilkS")
 			(uuid "847919ec-d779-400f-9bdf-0463b9ec56fb")
 			(effects
