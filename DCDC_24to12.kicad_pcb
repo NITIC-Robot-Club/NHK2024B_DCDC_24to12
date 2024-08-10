@@ -7711,6 +7711,18 @@
 		(layer "Edge.Cuts")
 		(uuid "f2918803-9d46-4e78-afa7-34fc3aa16645")
 	)
+	(gr_text "+12V"
+		(at 140.335 77.47 90)
+		(layer "F.SilkS")
+		(uuid "1d94189b-0342-4dea-a535-8a5fc50ad296")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "2024 Ibaraki_B\nDC-DC Board\n24Vin 12Vout"
 		(at 178.816 136.652 90)
 		(layer "F.SilkS")
@@ -7720,6 +7732,30 @@
 				(size 2 2)
 				(thickness 0.4)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VREG"
+		(at 146.304 76.708 90)
+		(layer "F.SilkS")
+		(uuid "66d50e81-02d5-4ef7-b4ce-822b38b76af7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+BATT"
+		(at 134.62 77.47 90)
+		(layer "F.SilkS")
+		(uuid "812a88fc-901b-46e0-abc4-faf261d50598")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
